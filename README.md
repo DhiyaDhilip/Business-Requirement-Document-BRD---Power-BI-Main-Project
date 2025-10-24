@@ -1,9 +1,6 @@
-<img width="1500" height="843" alt="image" src="https://github.com/user-attachments/assets/81b51564-f5e8-4b5f-b09e-ba4849ce78ee" /># Business-Requirement-Document-BRD---Power-BI-Main-Project
+# Business-Requirement-Document-BRD---Power-BI-Main-Project
 Power BI dashboard analyzing global economic and demographic trends across countries and regions. Visuals include GDP per capita, population, literacy, migration, mortality, and density. Enables comparative insights by income group and region for data-driven decision-making.
 
-Absolutely, Sandhiya! Based on your **Power BI dashboard titled "Global Economic and Demographic Trends Analysis: Business Requirement Document (BRD)"**, here’s a **detailed and professional breakdown** of your project — perfect for GitHub, resume, or portfolio documentation.
-
----
 
 ##   Global Economic and Demographic Trends Analysis
 
@@ -14,7 +11,6 @@ This Power BI dashboard provides a multi-dimensional analysis of global economic
 
 ###  Dashboard Pages & Key Insights:
 
-<img width="1500" height="843" alt="image" src="https://github.com/user-attachments/assets/5e174f2d-3a35-44b7-bd16-e92700776ef2" />
 
 
 #### Page 1: Zimbabwe Country Profile
@@ -28,8 +24,9 @@ This Power BI dashboard provides a multi-dimensional analysis of global economic
   - Gauge Charts:
     - Max GDP: 79.05T
     - Average GDP per Capita: 762.25B
-   
-<img width="1500" height="843" alt="image" src="https://github.com/user-attachments/assets/68e0888b-3965-4d4f-acbb-a6dbb8ff529d" />
+
+<img width="1500" height="843" alt="image" src="https://github.com/user-attachments/assets/5e174f2d-3a35-44b7-bd16-e92700776ef2" />
+
 
 
 ####  Page 2: Global GDP & Mortality Trends
@@ -41,8 +38,7 @@ This Power BI dashboard provides a multi-dimensional analysis of global economic
 - Bar Chart: GDP per capita by region
   - Highlights: Western Europe (75K), Northern America (70K), Asia (5K–25K), Africa (5K–10K)
 
-
-<img width="1500" height="843" alt="image" src="https://github.com/user-attachments/assets/64ff43fa-52d6-4012-860f-85263973d072" />
+<img width="1500" height="843" alt="image" src="https://github.com/user-attachments/assets/68e0888b-3965-4d4f-acbb-a6dbb8ff529d" />
 
 
 ####  Page 3: Middle-Income Country Analysis
@@ -51,7 +47,9 @@ This Power BI dashboard provides a multi-dimensional analysis of global economic
 - Bar Chart: GDP by region (East Asia, Europe, Latin America, etc.)
 - Pie Chart: Population distribution by region
 
-<img width="1500" height="843" alt="image" src="https://github.com/user-attachments/assets/5a7cbc69-3594-46e5-89b3-3d542de7a927" />
+
+<img width="1500" height="843" alt="image" src="https://github.com/user-attachments/assets/64ff43fa-52d6-4012-860f-85263973d072" />
+
 
 
 
@@ -63,6 +61,10 @@ This Power BI dashboard provides a multi-dimensional analysis of global economic
 - Bar Chart: Population density by region
 - Donut Chart: Population density (per sq. mi.) by region
   - Asia: 56.52%, Africa: 16.36%, Europe: 10.91%, etc.
+
+<img width="1500" height="843" alt="image" src="https://github.com/user-attachments/assets/5a7cbc69-3594-46e5-89b3-3d542de7a927" />
+
+
 
 ---
 
