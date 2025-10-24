@@ -66,7 +66,7 @@ This Power BI dashboard provides a multi-dimensional analysis of global economic
 
 
 
----
+
 
 ###  Tools & Techniques Used:
 - Power BI Desktop
@@ -75,7 +75,7 @@ This Power BI dashboard provides a multi-dimensional analysis of global economic
 - DAX Measures: For calculating GDP ratios, averages, and dynamic filters
 - Filters & Slicers: Country, Region, Income Group, Year
 
----
+
 
 ###  Outcome:
 This dashboard delivers a powerful analytical tool for understanding global development patterns. It supports policy makers, economists, and business analysts in identifying regional disparities, tracking demographic shifts, and evaluating economic performance across income groups.
