@@ -28,6 +28,9 @@ This Power BI dashboard provides a multi-dimensional analysis of global economic
   - Gauge Charts:
     - Max GDP: 79.05T
     - Average GDP per Capita: 762.25B
+   
+<img width="1500" height="843" alt="image" src="https://github.com/user-attachments/assets/68e0888b-3965-4d4f-acbb-a6dbb8ff529d" />
+
 
 ####  Page 2: Global GDP & Mortality Trends
 - Main Metrics:
@@ -38,11 +41,20 @@ This Power BI dashboard provides a multi-dimensional analysis of global economic
 - Bar Chart: GDP per capita by region
   - Highlights: Western Europe (75K), Northern America (70K), Asia (5K–25K), Africa (5K–10K)
 
+
+<img width="1500" height="843" alt="image" src="https://github.com/user-attachments/assets/64ff43fa-52d6-4012-860f-85263973d072" />
+
+
 ####  Page 3: Middle-Income Country Analysis
 - Card Visual: Total GDP by Income Group – 47.15T
 - Line Chart: GDP per capita across income groups (Low, Lower Middle, Upper Middle, High)
 - Bar Chart: GDP by region (East Asia, Europe, Latin America, etc.)
 - Pie Chart: Population distribution by region
+
+<img width="1500" height="843" alt="image" src="https://github.com/user-attachments/assets/5a7cbc69-3594-46e5-89b3-3d542de7a927" />
+
+
+
 
 ####  Page 4: Migration & Population Density
 - Card & Gauge:
